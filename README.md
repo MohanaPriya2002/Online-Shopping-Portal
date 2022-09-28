@@ -10,7 +10,7 @@ Follow the steps to run this project:
 4. Link for admin Panel : http://localhost/shopping/admin
 
 For login:
-<br>User Name: SunithyaPenu123
+<br>User Name: Mohana123
 <br>Password: password
 
 For Admin :
